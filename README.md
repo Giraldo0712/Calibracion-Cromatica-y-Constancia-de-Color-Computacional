@@ -1,4 +1,4 @@
-# Calibración Cromática y Constancia de Color Computacional
+# Calibración de color usando el patrón XRite
 
 Este repositorio contiene una solución en Python para la **calibración cromática y corrección de iluminantes** basada en imágenes de una carta de color (Macbeth ColorChecker de 24 parches) capturada bajo 7 condiciones de iluminación distintas.
 
